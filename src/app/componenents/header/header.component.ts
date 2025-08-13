@@ -7,5 +7,5 @@ import { Component, signal } from '@angular/core';
   styleUrl: './header.component.scss'
 })
 export class HeaderComponent {
-title = 'My first Angular app'
+title = 'My first Angular app';
 }
